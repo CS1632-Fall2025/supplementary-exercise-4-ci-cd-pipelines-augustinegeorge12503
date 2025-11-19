@@ -39,7 +39,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632-Fall2025/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
+      <url>https://maven.pkg.github.com/CS1632-Fall2025/supplementary-exercise-4-ci-cd-pipelines-augustinegeorge12503</url>
     </repository>
   </distributionManagement>
 
